@@ -1,0 +1,6 @@
+This is a test file
+i to start editing i.e. Insert Mode 
+ESC to exit Insert Mode
+:w to Save file
+:q to quit 
+:wq to save and quit 
