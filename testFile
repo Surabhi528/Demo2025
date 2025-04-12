@@ -3,4 +3,7 @@ i to start editing i.e. Insert Mode
 ESC to exit Insert Mode
 :w to Save file
 :q to quit 
-:wq to save and quit 
+:wq to save and quit
+
+Entering new line here.
+This is tracked file .i.e. it is added to the git
